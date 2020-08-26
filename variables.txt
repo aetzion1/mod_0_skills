@@ -1,0 +1,10 @@
+food = "Banana"
+is_delicious = true
+food = "Porridge"
+num2 = 8
+num7 = 2
+num7/num2
+quotient = num7/num2
+songs = ["Song1","Song2","Song3"]
+songs.drop(1)
+food.length
