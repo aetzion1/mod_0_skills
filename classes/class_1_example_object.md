@@ -19,7 +19,7 @@ make_crust_thin:
     style = "New Haven"
 drop_on_floor:
     style = ""
-    toppings = [""]
+    toppings = nil
     is_vegan = nil
     toppings_amnt = 0
 ```
